@@ -1,0 +1,17 @@
+C:\Users\Castrillon\source\repos\Supermarket-mvpCategorie\bin\Debug\net7.0-windows\Supermarket-mvpCategorie.exe
+C:\Users\Castrillon\source\repos\Supermarket-mvpCategorie\bin\Debug\net7.0-windows\Supermarket-mvpCategorie.deps.json
+C:\Users\Castrillon\source\repos\Supermarket-mvpCategorie\bin\Debug\net7.0-windows\Supermarket-mvpCategorie.runtimeconfig.json
+C:\Users\Castrillon\source\repos\Supermarket-mvpCategorie\bin\Debug\net7.0-windows\Supermarket-mvpCategorie.dll
+C:\Users\Castrillon\source\repos\Supermarket-mvpCategorie\bin\Debug\net7.0-windows\Supermarket-mvpCategorie.pdb
+C:\Users\Castrillon\source\repos\Supermarket-mvpCategorie\obj\Debug\net7.0-windows\Supermarket_mvpCategorie.Properties.Resources.resources
+C:\Users\Castrillon\source\repos\Supermarket-mvpCategorie\obj\Debug\net7.0-windows\Supermarket_mvpCategorie.views.CategorieView.resources
+C:\Users\Castrillon\source\repos\Supermarket-mvpCategorie\obj\Debug\net7.0-windows\Supermarket-mvpCategorie.csproj.GenerateResource.cache
+C:\Users\Castrillon\source\repos\Supermarket-mvpCategorie\obj\Debug\net7.0-windows\Supermarket-mvpCategorie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Castrillon\source\repos\Supermarket-mvpCategorie\obj\Debug\net7.0-windows\Supermarket-mvpCategorie.AssemblyInfoInputs.cache
+C:\Users\Castrillon\source\repos\Supermarket-mvpCategorie\obj\Debug\net7.0-windows\Supermarket-mvpCategorie.AssemblyInfo.cs
+C:\Users\Castrillon\source\repos\Supermarket-mvpCategorie\obj\Debug\net7.0-windows\Supermarket-mvpCategorie.csproj.CoreCompileInputs.cache
+C:\Users\Castrillon\source\repos\Supermarket-mvpCategorie\obj\Debug\net7.0-windows\Supermarket-mvpCategorie.dll
+C:\Users\Castrillon\source\repos\Supermarket-mvpCategorie\obj\Debug\net7.0-windows\refint\Supermarket-mvpCategorie.dll
+C:\Users\Castrillon\source\repos\Supermarket-mvpCategorie\obj\Debug\net7.0-windows\Supermarket-mvpCategorie.pdb
+C:\Users\Castrillon\source\repos\Supermarket-mvpCategorie\obj\Debug\net7.0-windows\Supermarket-mvpCategorie.genruntimeconfig.cache
+C:\Users\Castrillon\source\repos\Supermarket-mvpCategorie\obj\Debug\net7.0-windows\ref\Supermarket-mvpCategorie.dll
