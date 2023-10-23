@@ -10,21 +10,11 @@ using System.Windows.Forms;
 
 namespace Supermarket_mvpCategorie.views
 {
-    public partial class CategorieView : Form
+    public partial class Categorieview : Form
     {
-        public CategorieView()
+        public Categorieview()
         {
             InitializeComponent();
-        }
-
-        private void tabPage2_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
-        {
-
         }
     }
 }
