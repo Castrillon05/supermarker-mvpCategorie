@@ -4,10 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Supermarket_mvpCategorie._Repositories
+namespace Supermarket_mvpCategorie.presenters
 {
-    internal class BaseRepository
+    internal class MainPresenter
     {
-        protected string connectionString;
     }
 }
